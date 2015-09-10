@@ -29,3 +29,8 @@ withStatics=false
 HTML的配置在sample/templates/ueditor.html有示例。
 
 不清楚的情况可以直接运行本项目下的sample工程查看效果。
+```python
+notes:
+    copy statics to your real static serve directory
+    from D:\PycharmProjects\ueditor4tornado\projroot\ueditor4tornado/statics/
+```    
